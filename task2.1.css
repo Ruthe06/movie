@@ -1,0 +1,23 @@
+#i {
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.ru {
+    display: inline;
+    grid-template-columns: auto;
+}
+
+#sa {
+    margin-left: 900px;
+    margin-top: -500px;
+    height: 600px;
+}
+
+#b {
+    margin-left: 500px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 6px;
+    color: red;
+}

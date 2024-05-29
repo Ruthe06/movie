@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(231, 221, 206);
+}
+#fa{
+    color: blue;
+    
+}
+#a{
+    background-color: rgb(255, 255, 255);
+    width:200px;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: solid;
+
+}
+input{
+    width: 190px;
+
+}
+#button{
+    width: 190px;
+    color: wheat;
+    background-color: blue;
+    border-radius: 0px;
+}
+#bu2{
+    width: 150px;
+    color: wheat;
+    background-color: rgb(0, 255, 13);
+    border-radius: 0px;
+}

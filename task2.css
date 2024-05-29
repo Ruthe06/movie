@@ -1,0 +1,35 @@
+#loc{
+    margin-left: 1100px;
+    margin-top:1px;
+    display: inline-block;
+}
+#mark{
+    background-color: rgb(9, 243, 87);
+    margin-top: 30px;
+    display: flex;
+
+}
+#pb{
+    display: inline;
+    margin-left:570px;
+
+}
+#ru{
+    margin-top:2px;
+    margin-left:500px ;
+    display: inline;
+}
+#r{
+float:5px;
+width:15.88%;
+padding:5px;
+display: inline;
+margin-left:15px;
+margin-top:60px;
+}
+#mm{
+    background-color: blue;
+    padding:2px;
+    border-radius: 6px;
+    color: red;
+}
